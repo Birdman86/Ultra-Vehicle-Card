@@ -3,7 +3,7 @@ export default {
     battery: "Batteri",
     fuel: "Bränsle",
     range: "Räckvidd",
-    charging: "Laddning",
+    charging: "Laddar",
     mileage: "Körsträcka",
     location: "Plats",
     car_state: "Bilstatus",
